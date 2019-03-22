@@ -12,3 +12,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.App-header {
+  background-color: #282c34;
+  min-height: 45px;
+  font-size: calc(10px + 2vmin);
+  color: white ;
+  padding-left: 20px;
+  padding-bottom: 4px;
+  font-size: 20px;
+  clear: both;
+}
+
+
+
+.ui.header {
+  color: white ;
+}
+.ui.header.left {
+  color: white ;
+  padding-top: 10px;
+  letter-spacing: 3px;
+}
+.ui.header.right {
+  color: white ;
+  padding-top: 8px;
+  padding-right: 10px;
+  letter-spacing: 2px;
+}
+.column {
+  max-width: 450px;
+  margin-top: 170px;
+}
+.ui.message:first-child{
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 12px;
+  background-color: #00b5ad!important;
+  color:white;
+}
+.ui.message.title{
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 12px;
+  background-color: #00b5ad!important;
+  color:white;
+}
+.ui.segments{
+  margin-top: -13px;
+}
+.user-title{
+  color: #00b5ad!important;
+  padding-top: 15px;
+}
+.allcourse-right{
+  float: right;
+  margin-top: -4px;
+}
+.allcourse-button-size{
+  font-weight: 600 !important;
+}
+.allcourse-text-size{
+  font-size: 17px;
+  font-weight: 600;
+}
+
+
+
+
